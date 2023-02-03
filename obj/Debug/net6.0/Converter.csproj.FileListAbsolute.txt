@@ -1,0 +1,35 @@
+D:\Visa\Конвертер\Converter\bin\Debug\net6.0\Converter.exe
+D:\Visa\Конвертер\Converter\bin\Debug\net6.0\Converter.deps.json
+D:\Visa\Конвертер\Converter\bin\Debug\net6.0\Converter.runtimeconfig.json
+D:\Visa\Конвертер\Converter\bin\Debug\net6.0\Converter.dll
+D:\Visa\Конвертер\Converter\bin\Debug\net6.0\Converter.pdb
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\Converter.csproj.AssemblyReference.cache
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\Converter.AssemblyInfoInputs.cache
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\Converter.AssemblyInfo.cs
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\Converter.csproj.CoreCompileInputs.cache
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\Converter.dll
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\refint\Converter.dll
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\Converter.pdb
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\Converter.genruntimeconfig.cache
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\ref\Converter.dll
+D:\Visa\Конвертер\Converter\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Visa\Конвертер\Converter\obj\Debug\net6.0\Converter.csproj.CopyComplete
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\Converter.csproj.AssemblyReference.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\Converter.AssemblyInfoInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\Converter.AssemblyInfo.cs
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\Converter.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\refint\Converter.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\Converter.pdb
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\bin\Debug\net6.0\Converter.exe
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\bin\Debug\net6.0\Converter.deps.json
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\bin\Debug\net6.0\Converter.runtimeconfig.json
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\bin\Debug\net6.0\Converter.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\bin\Debug\net6.0\Converter.pdb
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\Converter.csproj.CopyComplete
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\Converter.genruntimeconfig.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\obj\Debug\net6.0\ref\Converter.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Converter\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
